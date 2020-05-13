@@ -12,13 +12,11 @@
     
     "disable_guests": false,
     "disable_login_language_selector": false,
-    "disable_3pid_login": true,
+    "disable_3pid_login": false,
     "brand": "Asoziales Netzwerk",
     "branding": {
-        "authHeaderLogoUrl": "//raw.githubusercontent.com/asozialesnetzwerk/riot/cff7cc143309ebe536ea81a076c1385539998ebf/img/ZitateBackgroundV2.svg",
         "authFooterLinks": [
-            {"Mit Liebe gebacken 🖤 Asoziales Netzwerk: Sektion GitHub": "https://github.com/asozialesnetzwerk"},
-            {"powered by Matrix": "https://matrix.org"}
+            {"powered by Matrix": "https://github.com/asozialesnetzwerk"}
         ]
     },
     "integrations_ui_url": "https://scalar.vector.im/",
